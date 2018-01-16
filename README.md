@@ -1,1 +1,3 @@
-BASH
+##BASH
+
+My personal collection of BASH scripts to make life easier...
